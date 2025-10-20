@@ -1,2 +1,2 @@
-from .helpers1 import *
-from .helpers2 import *
+from .Analysis_useful_funcs import *
+from .Astro_useful_funcs import *
